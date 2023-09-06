@@ -1,0 +1,2 @@
+Loaded 1780 password hashes with 1021 different salts (md5crypt [MD5 32/64 X2])
+Remaining 1482 password hashes with 869 different salts
